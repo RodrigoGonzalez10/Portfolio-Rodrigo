@@ -11,7 +11,7 @@ Contexto:
 
 2. Se debe concluír los pasos que hagan falta del vídeo.
 
-3. Registrar al menos 4 ejemplos del código dónde se utilice flexbox.
+3. Registrar al menos 4 ejemplos del código dónde se utilice flexbox.En la section services se usa un display grid especial para hacer responsive las tarjetas(profundice en él y consulte la explicación)
 
 4. Usar correctamente las variables definidas en la psudoclase :root
 
