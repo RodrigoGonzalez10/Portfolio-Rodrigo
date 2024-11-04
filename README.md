@@ -19,5 +19,5 @@ Contexto:
 
 6. Crear un repositorio sobre el proyecto, crear una rama llamada develpment y trabajar sobre esta, cuando se culminen los commits y el proyecto hacer merge a main.(observación: debe borrar el directorio .git para crear el repositorio personal)
 
-7. Publicar en github pages.
+7. Publicar en github pages o en netlify.
 
